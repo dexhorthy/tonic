@@ -1,4 +1,4 @@
-### A Java Color Scheme for Intellij
+### A Java Color Scheme for IntelliJ
 
 1. Put Tonic.icls in ~/Library/Preferences/IdeaCE13/colors
 2. Restart IntelliJ
