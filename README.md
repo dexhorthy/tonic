@@ -7,7 +7,7 @@
 5. (Darcula Only)
 
 
-![](./screenshot.png)
+
 
 ### Motivations (WIP)
 
@@ -23,3 +23,34 @@
       * String Literals
       * fields
       * static final fields, Enum members, Numeric literals
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![](./screenshot.png)
