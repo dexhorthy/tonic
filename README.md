@@ -7,7 +7,7 @@
 5. (Darcula Only)
 
 
-![screenshot](./screenshot.png =250x)
+![](./screenshot.png =250x)
 
 ### Motivations (WIP)
 
