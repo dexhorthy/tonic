@@ -6,6 +6,9 @@
 4. Select Tonic
 5. (Darcula Only)
 
+
+![screenshot](https://raw.githubusercontent.com/horthy/tonic/master/screenshot.png)
+
 ### Motivations (WIP)
 
 * Parentheses/Brackets/Braces suck. Make them FFFFFF and **bold**
