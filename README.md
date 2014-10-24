@@ -7,7 +7,7 @@
 5. (Darcula Only)
 
 
-![screenshot](https://raw.githubusercontent.com/horthy/tonic/master/screenshot.png =250x250)
+![screenshot](./screenshot.png =250)
 
 ### Motivations (WIP)
 
